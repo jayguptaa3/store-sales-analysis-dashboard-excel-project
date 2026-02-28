@@ -1,5 +1,5 @@
 ## 📌 Project Overview
-Store wanted to analyze its 2025 annual sales data to understand customer behavior and identify growth opportunities for 2026.
+Store wanted to analyze its 2025 annual sales data to identify growth opportunities for 2026.
 
 This project focuses on cleaning, analyzing, and visualizing sales data using Microsoft Excel to generate actionable business insights through an interactive dashboard.
 
