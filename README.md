@@ -69,15 +69,6 @@ To improve sales in 2026, Store should:
 
 ---
 
-## 📂 Project Structure
-store-sales-analysis-dashboard-excel-project/    
-│    
-├── Store_analysis.xlsx   
-├── Screenshot.png   
-└── README.md   
-
----
-
 ## 📈 Dashboard Features
 
 - Interactive slicers (Month, Channel, Category)
