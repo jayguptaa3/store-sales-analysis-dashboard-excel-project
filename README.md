@@ -31,12 +31,23 @@ This project focuses on cleaning, analyzing, and visualizing sales data using Mi
 
 - Compare Sales vs Orders using a single chart
 - Identify the month with highest sales and orders
+<img width="1377" height="640" alt="Screenshot 2026-02-28 234840" src="https://github.com/user-attachments/assets/b22070be-1d72-480f-8503-d8591abbd72f" />
+
 - Determine who purchased more: Men or Women?
+<img width="1054" height="542" alt="Screenshot 2026-02-28 234823" src="https://github.com/user-attachments/assets/6f43d796-4352-4430-9eaf-25f7b088c85f" />
+
 - Analyze Order Status distribution
-- List Top 10 states contributing to sales
+<img width="871" height="471" alt="Screenshot 2026-02-28 234831" src="https://github.com/user-attachments/assets/c45cc9a5-5c76-47e6-9eba-5c5197223e58" />
+
+- List Top 5 states contributing to sales
+  <img width="1456" height="587" alt="Screenshot 2026-02-28 234816" src="https://github.com/user-attachments/assets/86127b49-c03b-45c7-8e67-2bd20bc2fb13" />
+
 - Study relationship between Age & Gender
+  <img width="1512" height="603" alt="Screenshot 2026-02-28 234758" src="https://github.com/user-attachments/assets/ec4f7f35-26e9-402b-b634-720f908b3584" />
+
 - Identify the highest contributing sales channel
-- Find the highest selling category
+<img width="1412" height="526" alt="Screenshot 2026-02-28 234806" src="https://github.com/user-attachments/assets/7e40a52e-12a9-4aaa-8011-4a0d7254925e" />
+
 
 ---
 
@@ -56,6 +67,7 @@ To improve sales in 2026, Store should:
 - Focus marketing efforts in Maharashtra, Karnataka, and Uttar Pradesh   
 - Promote offers/coupons via Amazon, Flipkart, and Myntra   
 
+---
 
 ## 📂 Project Structure
 store-sales-analysis-dashboard-excel-project/    
@@ -80,9 +92,9 @@ store-sales-analysis-dashboard-excel-project/
 ---
 
 ## 👤 Author
-**Jay Gupta**
-Aspiring Data Analyst
-Reach out via LinkedIn: [www.linkedin.com/in/jayguptaa3]
+**Jay Gupta**   
+Aspiring Data Analyst   
+Reach out via LinkedIn: [www.linkedin.com/in/jayguptaa3]   
 
 # ⭐ If you found this project useful, consider starring the repository!
 
